@@ -4,12 +4,22 @@
  <title>MohammadReza Salari | Developer</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-09-09T21:43:18+04:30</updated>
+ <updated>2018-09-10T18:01:43+04:30</updated>
  <author>
    <name>MohammadReza Salari</name>
    <uri>http://mohammadreza.github.io/</uri>
    <email>frishter.ms@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Hello My Friend</title>
+   <link href="http://localhost:4000/hello-my-firend"/>
+   <id>http://localhost:4000/hello-my-firend</id>
+   <updated>2018-07-10T00:00:00+04:30</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
+ </entry>
 
  
 

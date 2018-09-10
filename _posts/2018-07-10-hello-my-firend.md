@@ -1,7 +1,7 @@
 ---
-title: First blog post
+title: Hello My Friend
 description: This is our first post. Hello World!
-header: Hello World
+header: Hello My Friend !
 categories: [blog, travel]
 tags: [hot, summer]
 ---

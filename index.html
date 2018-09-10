@@ -1,17 +1,43 @@
 ---
 layout: default
 ---
-<!-- Posts -->
-<ul id="posts">
+<p><img src="img/avatar.jpg" alt="MohammadReza Salari" title="MohammadReza" class="img-avatar" /></p>
 
-	{% for post in paginator.posts %}
+<p>👋 Hi there. I am MohammadReza who born in 1995 in BandarAbbas, Iran. My persian name written as <code>محمدرضا‍</code> and
+	pronounced as <code>[mo:ha:mad:re:za] [sa:la:ri]</code>.
+	I got my BS in Software Engineering after graduating from Azad University of BandarAbbas.
+	Now i work as Software Engineer as Freelance.</p>
 
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
+<h3 id="interests">{ 🖤 Interests }</h3>
 
-    {% endfor %}
+<ul class="indented">
+	<li>Science / Knowledge / Unix &amp; Linux</li>
 
+	<li>Software Development ( Web / Mobile )</li>
+
+	<li>Playing Music ( Guitar )</li>
+
+	<li>Book</li>
+
+	<li>Movie</li>
+
+	<li>Game</li>
 </ul>
+
+<h3 id="skills">{ 💪 Skills }</h3>
+
+<ul class="indented">
+	<li>Web : Html / Css / Js / Sass / Java / Php / Node.Js / Laravel / React.Js / Vue.JS</li>
+
+	<li>Mobile : Android / Android Studio / Gradle</li>
+</ul>
+
+<h3 id="findme">{ 📨 Find Me }</h3>
+
+<p>You can also find me on <br />
+	<section class="indented">
+	<a href="https://github.com/mohammadreza">Github</a><br />
+	<a href="https://twitter.com/mrsalari2012">Twitter</a><br />
+	<a href="mailto:frishter.ms@gmail.com"><code>frishter.ms@gmail.com</code></a><br />
+</section>
+</p>
