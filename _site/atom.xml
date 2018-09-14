@@ -4,7 +4,7 @@
  <title>MohammadReza Salari | Developer</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-09-10T18:01:43+04:30</updated>
+ <updated>2018-09-14T15:31:02+04:30</updated>
  <author>
    <name>MohammadReza Salari</name>
    <uri>http://mohammadreza.github.io/</uri>
@@ -14,21 +14,11 @@
  
 
  <entry>
-   <title>Hello My Friend</title>
-   <link href="http://localhost:4000/hello-my-firend"/>
-   <id>http://localhost:4000/hello-my-firend</id>
-   <updated>2018-07-10T00:00:00+04:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
- </entry>
-
- 
-
- <entry>
-   <title>First blog post</title>
-   <link href="http://localhost:4000/hello-world"/>
-   <id>http://localhost:4000/hello-world</id>
-   <updated>2017-02-10T00:00:00+03:30</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
+   <title>30 Day Challenge</title>
+   <link href="http://localhost:4000/30-day-challenge"/>
+   <id>http://localhost:4000/30-day-challenge</id>
+   <updated>2018-09-14T00:00:00+04:30</updated>
+   <content type="html">&lt;p&gt;Before I go to military service I thought I could plan for my life as I did before, but the conditions differed.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Everything not going as you want.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;I’ve been confused and clatter, thus I decided to make a right way to mine. I read a lot of...</content>
  </entry>
 
  
