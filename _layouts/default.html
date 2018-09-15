@@ -67,6 +67,9 @@
 	    <!-- Script -->
       {% include script.html %}
 
-	</div>
+  </div>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 </body>
 </html>
