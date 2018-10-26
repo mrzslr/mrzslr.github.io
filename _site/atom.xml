@@ -4,12 +4,22 @@
  <title>MohammadReza Salari | Developer</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-09-15T22:13:13+04:30</updated>
+ <updated>2018-10-26T19:48:20+03:30</updated>
  <author>
    <name>MohammadReza Salari</name>
    <uri>http://mohammadreza.github.io/</uri>
    <email>frishter.ms@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>What about 30 day challenge</title>
+   <link href="http://localhost:4000/what-about-30-day-challenge"/>
+   <id>http://localhost:4000/what-about-30-day-challenge</id>
+   <updated>2018-10-26T00:00:00+03:30</updated>
+   <content type="html">&lt;p&gt;Today I passed 30 days since I publish &lt;a href=&quot;https://mohammadreza.github.io/30-day-challenge&quot;&gt;30DayChallenge&lt;/a&gt;.changing your habits are a little bit painful, but I’ll explain what I learned in this way. I started by defining a plan for myself that contains a list of things to do and not to do. for example, I decided...</content>
+ </entry>
 
  
 
